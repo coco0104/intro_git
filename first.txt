@@ -7,3 +7,4 @@ Gitの練習をしていきます
 ・git diff
 
 .git add,git commit 復習
+.git diff復習
